@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Ideas](#ideas)
 
 ## General info
 First project done by me in Django. It's going to be a bank site with few functions.
